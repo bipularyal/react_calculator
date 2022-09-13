@@ -36,7 +36,7 @@ body{
   padding: 16px;
   text-align: right;
   background-color: var(--dark);
-  color: light;
+  color: #fff;
   font-size: 24px;
   font-weight: 400;
 }
